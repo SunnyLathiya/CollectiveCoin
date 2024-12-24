@@ -1,2 +1,3 @@
 # CollectiveCoin
-Final Project
+Final Project 
+collectivecoin
